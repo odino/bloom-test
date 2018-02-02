@@ -1,0 +1,14 @@
+{
+  "name": "bloom-test",
+  "version": "1.0.0",
+  "description": "This is a sample repo for the code example in [this article](https://odino.org/bloom-filters-when-data-structures-get-smart/).",
+  "main": "bloom-high-precision.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bloomfilter": "0.0.16"
+  }
+}
